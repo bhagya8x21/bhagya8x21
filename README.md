@@ -8,7 +8,7 @@
 
 - 👯 **I’m looking to collaborate on:** Open-source projects related to Java,Python and data science.
 
-- 🤔 **I’m looking for help with:** Exploring advanced machine learning models using Python
+- 🤔 **I’m looking for help with:** Exploring advanced machine learning models using Java,Python.
 
 - 💬 **Ask me about:** Python programming, mental health tech solutions (e.g., Fusion AI), and cloud-based software design.
 
