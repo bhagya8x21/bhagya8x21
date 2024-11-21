@@ -2,23 +2,23 @@
 
 ### I'm Bhagya Rekha Ammisetty
 
-I'm a Cybersecurity and Data Science enthusiast, passionate about combining technology and analytics to create innovative solutions. My expertise spans defensive mechanisms, with a growing curiosity about offensive cybersecurity and advanced machine learning techniques. I aim to deliver secure, scalable, and intelligent systems that address real-world challenges.
+ -I'm a Cybersecurity and Data Science enthusiast, passionate about combining technology and analytics to create innovative solutions. My expertise spans defensive mechanisms, with a growing curiosity about offensive cybersecurity and advanced machine learning techniques. I aim to deliver secure, scalable, and intelligent systems that address real-world challenges.
 
-🔭 **I’m currently working on:**
+🚀 **I’m currently working on:**
   - A Data Science project, **Predicting Credit Risk**, using machine learning models to assess financial reliability and minimize risk.
   - A Cybersecurity project, developing a modular, **web-based, real-time threat intelligence platform**, aimed at analyzing and visualizing threat data efficiently.
   - Hands-on experience with vulnerability management and endpoint security solutions.
   - Solid knowledge of incident response strategies, risk assessments, and data preprocessing techniques.
 
-🌱 **I’m currently learning:** 🚀 What I'm Working On
+🌱 **I’m currently learning:**  
   
-  Cybersecurity Projects:
+   -Cybersecurity Projects:
    Developing a web-based Real-Time Threat Intelligence Platform to analyze and visualize threat data.
-Exploring offensive security techniques to complement my defensive skill set.
+   Exploring offensive security techniques to complement my defensive skill set.
 
-Data Science Projects:
+   -Data Science Projects:
    Credit Risk Prediction: Implementing machine learning models to assess financial reliability and minimize risks.
-Advanced Data Preprocessing: Gaining insights into data transformation and feature engineering.
+   Advanced Data Preprocessing: Gaining insights into data transformation and feature engineering.
 
 👯 **I’m looking to collaborate on:** Open-source projects related to Java,Python and data science.
 
