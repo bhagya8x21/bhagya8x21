@@ -1,25 +1,45 @@
 ## Hi there 👋
 
-- 🔭 **I’m currently working on:**
+### I'm Bhagya Rekha Ammisetty
+
+👨‍💻 Introduction
+I'm a Cybersecurity and Data Science enthusiast, passionate about combining technology and analytics to create innovative solutions. My expertise spans defensive mechanisms, with a growing curiosity about offensive cybersecurity and advanced machine learning techniques. I aim to deliver secure, scalable, and intelligent systems that address real-world challenges.
+
+🔭 **I’m currently working on:**
   - A Data Science project, **Predicting Credit Risk**, using machine learning models to assess financial reliability and minimize risk.
   - A Cybersecurity project, developing a modular, **web-based, real-time threat intelligence platform**, aimed at analyzing and visualizing threat data efficiently.
+  - Hands-on experience with vulnerability management and endpoint security solutions.
+  - Solid knowledge of incident response strategies, risk assessments, and data preprocessing techniques.
 
-- 🌱 **I’m currently learning:** Advanced data preprocessing techniques and threat detection algorithms.
+🌱 **I’m currently learning:** 🚀 What I'm Working On
+  
+  Cybersecurity Projects:
+   Developing a web-based Real-Time Threat Intelligence Platform to analyze and visualize threat data.
+Exploring offensive security techniques to complement my defensive skill set.
 
-- 👯 **I’m looking to collaborate on:** Open-source projects related to Java,Python and data science.
+Data Science Projects:
+   Credit Risk Prediction: Implementing machine learning models to assess financial reliability and minimize risks.
+Advanced Data Preprocessing: Gaining insights into data transformation and feature engineering.
 
-- 🤔 **I’m looking for help with:** Exploring advanced machine learning models using Java,Python.
+👯 **I’m looking to collaborate on:** Open-source projects related to Java,Python and data science.
 
-- 💬 **Ask me about:** Python programming, mental health tech solutions (e.g., Fusion AI), and cloud-based software design.
+🤔 **I’m looking for help with:** Exploring advanced machine learning models using Java,Python.
 
-## Skills and Technologies:
-- **Programming Languages:** Java, Python, JavaScript, C++  
-- **Frameworks & Tools:** Django, Flask, HTML, CSS, SQL, MySQL, SQLite, jQuery  
-- **Technologies:** GitHub, Agile, SDLC, AWS, MS Office Suite  
-- **Certifications:** Python Programming (HackerRank), Problem Solving (HackerRank), Coursera certifications in C, Java, and Python programming  
-- **Soft Skills:** Leadership, Teamwork, Time Management, Analytical Thinking, Attention to Detail  
+💬 **Ask me about:** Python programming, mental health tech solutions (e.g., Fusion AI), and cloud-based software design.
 
-## Projects:
+🛠️ Skills and Technologies:
+- Programming & Frameworks
+  Languages: Python, Java, Bash, PowerShell, JavaScript, C++
+  Frameworks & Libraries: Django, Flask, ReactJS, HTML, CSS, SQL, MySQL, SQLite
+- Cybersecurity Tools & Platforms
+  Tools: Wireshark, Nmap, Metasploit, Burp Suite
+  Platforms: Linux, Windows Server, Cloud Security (AWS, Azure)
+- Certifications
+  HackerRank: Python Programming, Problem Solving
+  Coursera: Certified in C, Java, and Python Programming
+  
+🔭 Notable Projects:
+
 - **[Fusion AI – Personal Mental Health Assistant](https://github.com/bhagya8x21)**  
   Developed a personalized mental health assistant for monitoring and analyzing users' emotional states using facial emotion recognition and vocal sentiment analysis.  
 
