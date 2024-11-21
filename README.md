@@ -2,7 +2,6 @@
 
 ### I'm Bhagya Rekha Ammisetty
 
-👨‍💻 Introduction
 I'm a Cybersecurity and Data Science enthusiast, passionate about combining technology and analytics to create innovative solutions. My expertise spans defensive mechanisms, with a growing curiosity about offensive cybersecurity and advanced machine learning techniques. I aim to deliver secure, scalable, and intelligent systems that address real-world challenges.
 
 🔭 **I’m currently working on:**
